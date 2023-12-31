@@ -1,3 +1,4 @@
+A Netflix-inspired clone, redefines entertainment and replicates the beloved streaming service's user interface and features, providing a seamless and immersive entertainment experience with a vast library of movies and TV shows at your fingertips.
 ![1](https://github.com/pradyotsrivastava/NetFlix-clone/assets/126956834/31bd3482-2c5b-437c-aa6c-a83165422380)
 ![2](https://github.com/pradyotsrivastava/NetFlix-clone/assets/126956834/7d736083-2f81-4172-922a-a0396361b85a)
 ![3](https://github.com/pradyotsrivastava/NetFlix-clone/assets/126956834/4f410b68-a248-47de-a5ae-6e6c17d9a61a)
